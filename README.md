@@ -16,3 +16,7 @@ This is a simple web project, deployment fcan be on any web server or even local
 
 ## How to Contribute
 IDK
+
+### Copyright
+
+2020 Mark Git.Training.
