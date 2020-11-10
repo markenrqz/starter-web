@@ -1,2 +1,7 @@
 *.log
 log/
+*.orig
+simple_BACKUP_2223.html
+simple_BASE_2223.html
+simple_LOCAL_2223.html
+simple_REMOTE_2223.html
