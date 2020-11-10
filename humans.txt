@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mark Enriquez	markenrqz@gmail.com		@markenrqz
 
 # THANKS
 
